@@ -7,3 +7,5 @@ Features:
 - Configurable video/audio bitrates
 - Preserves original audio as MP2
 - Shows output file info after conversion
+
+Here is a Picture: ./Pictures/ipod-converter-image.png
